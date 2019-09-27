@@ -5,7 +5,7 @@
   "dependencies": {
     "rxjs": "6.3.3",
     "tslib": "1.9.3",
-    "jquery": "3.3.1",
+    "jquery": "3.4.0",
     "core-js": "2.5.7",
     "zone.js": "0.8.26",
     "bootstrap": "4.1.3",
